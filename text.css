@@ -1,0 +1,61 @@
+body
+{
+height:1540px;
+padding:0;
+	margin:0;
+	background:url(a14.jpg);
+        background-color:black;
+        background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+       
+}
+#box1
+{
+background-color:rgba(0,0,0,0.8);
+width:1050px;
+height:750px;
+margin-left:225px;
+margin-top:140px;
+border-radius:25px;
+}
+#box2
+{
+font-family: 'MondaRegular';
+padding:8px;
+color:white;
+margin-top:615px;
+background-color:rgba(0,0,0,.92);
+width:1332px;
+height:165px;
+}
+#move
+{
+margin-left:50;
+position:absolute;
+margin-top:80px;
+}
+#suggestionForm
+{
+color:rgb(255,255,190);
+}
+#suggestionForm:hover
+{
+color:darkolivegreen;	
+}
+#shiftbutton
+{
+position:absolute;
+margin-left:50px;
+}
+#box4
+{
+font-size:20px;
+color:white;
+position:absolute;
+width:900px;
+height:300px;
+margin-left:100px;
+margin-top:20px;
+background-color:rgba(0,0,0.8);
+}

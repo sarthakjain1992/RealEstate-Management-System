@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>MY PICTURE GALLERY</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://arnabpro.jalbum.net/MY PICTURE GALLERY/</jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/1.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/1.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/1.jpg" width="720" height="480"/>
+            <jalbum:exif originalDate="10/1/04 3:30 PM" cameraMake="EASTMAN KODAK COMPANY" cameraModel="KODAK DX4900 ZOOM DIGITAL CAMERA"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>2</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/2.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/2.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/2.jpg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        <item>
+            <title>3</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/3.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/3.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/3.jpg" width="720" height="377"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        <item>
+            <title>Sea Bridge &amp; City View High Definition Wallpapers for 2012 Year</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/4.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/4.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/4.jpg" width="720" height="503"/>
+            <jalbum:exif originalDate="" cameraMake="http://www.Fun54.com" cameraModel=""/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>5</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/5.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/5.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/5.jpg" width="720" height="405"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
+            <title>6</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/6.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/6.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/6.jpg" width="720" height="540"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        <item>
+            <title>7</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/7.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/7.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/7.jpg" width="720" height="450"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/8.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/8.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/8.jpg" width="720" height="450"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>9</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/9.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/9.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/9.jpg" width="720" height="480"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>10</title>
+            <link>http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/10.jpg</link>
+            <pubDate>Mon, 09 Sep 2013 17:33:18 +0530</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/thumbs/10.jpg" width="90" height="60"/>
+            <media:content type="image/jpeg" url="http://arnabpro.jalbum.net/MY PICTURE GALLERY/slides/10.jpg" width="720" height="422"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,61 @@
+.rating{
+	width:880px;
+	height:16px;
+	margin:0 0 150px 0;
+	padding:0;
+	list-style:none;
+	clear:both;
+	position:absolute;
+	background: url(rating.gif) no-repeat 0 0;
+}
+#ratingshift
+{
+z-index:1;
+position:absolute;
+margin-top:60px;
+margin-left:580px;
+
+}
+/* add these classes to the ul to effect the change to the correct number of stars */
+.nostar {background-position:0 0}
+.onestar {background-position:0 -16px}
+.twostar {background-position:0 -32px}
+.threestar {background-position:0 -48px}
+.fourstar {background-position:0 -64px}
+.fivestar {background-position:0 -80px}
+ul.rating li {
+	cursor: pointer;
+ /*ie5 mac doesn't like it if the list is floated\*/
+	float:left;
+	/* end hide*/
+	text-indent:-999em;
+}
+ul.rating li input {
+	position:absolute;
+	left:0;
+	top:0;
+	width:16px;
+	height:16px;
+	text-decoration:none;
+	z-index: 200;
+}
+ul.rating li.one input {left:0}
+ul.rating li.two input {left:16px;}
+ul.rating li.three input {left:32px;}
+ul.rating li.four input {left:48px;}
+ul.rating li.five input {left:64px;}
+ul.rating li input:hover {
+	z-index:2;
+	width:80px;
+	height:16px;
+	overflow:hidden;
+	left:0;	
+	background: url(rating.gif) no-repeat 0 0
+}
+ul.rating li.one input:hover {background-position:0 -96px;}
+ul.rating li.two input:hover {background-position:0 -112px;}
+ul.rating li.three input:hover {background-position:0 -128px}
+ul.rating li.four input:hover {background-position:0 -144px}
+ul.rating li.five input:hover {background-position:0 -160px}
+/* end rating code */
+h3{margin:0 0 2px 0;font-size:110%}
